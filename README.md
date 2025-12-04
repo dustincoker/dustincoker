@@ -28,7 +28,7 @@ Aspiring Software Developer & Data Scientist with 13+ years of experience as a T
 - [Nano Sugar Assistant](https://github.com/dustincoker/nano_sugar_assistant)
   AI-powered SugarCRM helper using Gemini Nano + DOM tools — runs entirely in the browser console.
 
--[Note Writer](https://github.com/dustincoker/Note-Writer)
+- [Note Writer](https://github.com/dustincoker/Note-Writer)
   Draft customer-facing support notes in your own style using Retrieval-Augmented Generation (RAG).
 
 - AI Voice Agent Demos (coming soon)  
