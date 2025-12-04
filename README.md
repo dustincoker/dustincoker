@@ -22,7 +22,7 @@ Aspiring Software Developer & Data Scientist with 13+ years of experience as a T
 ---
 
 ## Featured Repositories
-- [sugarcrm-bpmdash](https://github.com/dustin-coker/sugarcrm-bpmdash)  
+- [SugarGPT](https://github.com/dustin-coker/SugarGPT)  
   Custom SugarCRM dashlet with a clean card layout, dynamic CSS loading, and Cas ID links.  
 
 - AI Voice Agent Demos (coming soon)  
