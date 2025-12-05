@@ -22,7 +22,7 @@ Aspiring Software Developer & Data Scientist with 13+ years of experience as a T
 ---
 
 ## Featured Repositories
-- [SugarGPT](https://github.com/dustincoker/SugarGPT)  
+- [SugarGPT](https://github.com/dustincoker/SugarGPT)
   A custom SugarCRM sidebar action that opens a floating, draggable AI assistant directly inside the Sugar application, allowing users to ask natural-language questions about SugarCRM using indexed documentation and an Ollama-hosted LLM.
 
 - [Nano Sugar Assistant](https://github.com/dustincoker/nano_sugar_assistant)
