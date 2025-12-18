@@ -1,6 +1,6 @@
 # Hi, I’m Dustin
 
-Aspiring Software Developer & Data Scientist with 13+ years of experience as a Technical Support Engineer for a large web-based SaaS platform. Skilled in Python, JavaScript, PHP, SQL, and building automation tools that make systems faster, smarter, and easier to use.  Exploring AI-powered agents, voice agents, data science, and CRM customizations.
+Aspiring AI Developer & Data Scientist with 13+ years of experience as a Technical Support Engineer for a large web-based SaaS platform. Skilled in Python, JavaScript, PHP, SQL, and building automation tools that make systems faster, smarter, and easier to use.  Exploring AI-powered agents, voice agents, data science, and CRM customizations.
 
 ---
 
