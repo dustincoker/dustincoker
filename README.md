@@ -26,4 +26,22 @@ Technical Support Engineer with 13+ years building automation tools and solving 
 ## Featured Projects
 
 ### [SugarGPT](https://github.com/dustincoker/SugarGPT)
-AI-powered documentation assistant for SugarCRM using RAG and local LLM. Reduces research time by
+AI-powered documentation assistant for SugarCRM using RAG and local LLM. Reduces research time by 40% through semantic search of indexed documentation.
+
+### [Note Writer](https://github.com/dustincoker/Note-Writer)
+NLP-based support note generator that analyzes 3 years of historical notes to draft responses in consistent style. Reduced note creation time 50%.
+
+### [Nano Sugar Assistant](https://github.com/dustincoker/nano_sugar_assistant)
+Browser-based AI assistant for SugarCRM using Gemini Nano + DOM manipulation. Answers questions about records directly in the console.
+
+### [SugarCRM BPM Dashlet](https://github.com/dustincoker/sugarcrm-bpmdash)
+Custom dashlet displaying process definitions and business process management info for SugarCRM records.
+
+---
+
+## Connect
+
+- **LinkedIn:** [linkedin.com/in/dustin-coker-447870285](https://www.linkedin.com/in/dustin-coker-447870285/)
+- **Email:** dustincoker@icloud.com
+
+I solve hard technical problems and build tools that make teams more productive.
